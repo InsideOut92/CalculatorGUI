@@ -51,7 +51,7 @@ public class binaryconversion extends JFrame implements ActionListener{
         setLayout(new FlowLayout());
         add(p);
         setTitle("Dezimalumwandlung");
-        setSize(500, 500);
+        setSize(500, 300);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setVisible(true);
 
